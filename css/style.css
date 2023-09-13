@@ -1,0 +1,40 @@
+body{
+    background: #005AA7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFDE4, #005AA7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.apretame{
+    text-align: center;
+    margin-top: 2rem;   
+}
+
+h1{
+    color: white;
+}
+
+img{
+    width: 400px;
+}
+
+.cuadradito{
+    color: transparent;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf_DhaCM193WZop26b_ziCNugzLtkrxN3zdtYSpE2Jbj7KUd5KNF8Lk-QtPxPHqfeFDJ0&usqp=CAU);
+    height: 1000px;
+}
+
+.circulito{
+    color: white;
+    background-image: url(https://e0.pxfuel.com/wallpapers/806/472/desktop-wallpaper-white-all-white.jpg);
+    height: 100%;
+}
+
+.modooscuro{
+    background: #bdc3c7;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2c3e50, #bdc3c7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2c3e50, #bdc3c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.modooscuro h1{
+    color: black;
+}
